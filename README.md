@@ -5,12 +5,12 @@ Predicting employee turnover is a critical challenge for organizations. This pro
 This project analyzes a dataset of 1,470 employees containing demographic, job‑related, compensation, and satisfaction attributes.The goal is to build classification models that predict whether an employee is likely to leave the company.
 
 The workflow includes:
-Data cleaning & preprocessing
-Exploratory data analysis (univariate, bivariate, multivariate)
-Feature engineering & encoding
-Model development (KNN, Naive Bayes, Logistic Regression)
-Model evaluation using multiple metrics
-Insights & business recommendations
+1. Data cleaning & preprocessing
+2. Exploratory data analysis (univariate, bivariate, multivariate)
+3. Feature engineering & encoding
+4. Model development (KNN, Naive Bayes, Logistic Regression)
+5. Model evaluation using multiple metrics
+6. Insights & business recommendations
 
 ### Tools & Technologies
 1. Python (Jupyter Notebook)
@@ -19,10 +19,10 @@ Insights & business recommendations
 4. Scikit‑learn
 
 ### Dataset
-Source: HR Employee Attrition Dataset (Kaggle)
-Records: 1,470 employees
-Features: 31 variables (after cleaning, irrelevant constant‑value columns removed)
-Target Variable: Attrition (Yes/No → 1/0)
+- Source: HR Employee Attrition Dataset (Kaggle)
+- Records: 1,470 employees
+- Features: 31 variables (after cleaning, irrelevant constant‑value columns removed)
+- Target Variable: Attrition (Yes/No → 1/0)
 
 ### Data Preparation
 A. Data Cleaning
